@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseURL = 'http://localhost:3001/';
+const baseURL = 'https://semantic-similarity-backend-s2zuhmr2fa-uc.a.run.app/';
 
 async function getQuestion(params)
 {

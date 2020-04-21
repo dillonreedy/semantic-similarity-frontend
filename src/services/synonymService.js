@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseURL = 'https://semantic-similarity-backend-s2zuhmr2fa-uc.a.run.app/';
+const baseURL = 'https://api-dot-pipeline-semantic-274917.uc.r.appspot.com/';
 
 async function getQuestion(params)
 {
